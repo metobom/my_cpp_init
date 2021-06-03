@@ -1,7 +1,7 @@
-# how-to-CMake
-Bu repo CMake ile nasıl proje oluşturulacağını anlatır (opencv ve torch içerir).
-vscode include path:
+# Açıklama
+CPP projeleri için template.
 
+vscode include path:
 /home/m3/meto_ws/c_cpp_libs/libtorch/include
 /home/m3/meto_ws/c_cpp_libs/libtorch/include/torch/csrc/api/include
 /usr/local/include/opencv4
